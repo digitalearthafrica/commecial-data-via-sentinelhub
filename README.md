@@ -7,4 +7,4 @@ The `odc-sh` Python package is used and should be installed first, e.g. using pi
 pip install git+https://github.com/sentinel-hub/odc-sh.git
 ```
 
-More information on how to use the `odc-sh` and the configurations available can be found from https://github.com/sentinel-hub/odc-sh.
+More information on how to use `odc-sh` and the configurations available can be found from https://github.com/sentinel-hub/odc-sh.
